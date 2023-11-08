@@ -1,0 +1,67 @@
+.nav-contacts{
+    color: #F4774C;
+}
+.connection{
+    margin: 20px 130px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.call{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.mail{
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+}
+
+.tg{
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+}
+
+.icon_text{
+    margin-left: 20px;
+    transition: color 0.1s linear;
+}
+.icon_text:hover{
+    color: #F4774C;
+}
+
+
+.icon_map{
+    margin: 40px 400px;
+    display: flex;
+    align-items: center;
+}
+.map_text{
+    display: flex;
+    align-items: center;
+}
+.map_text1{
+    margin-left: 20px;
+}
+
+.map_text2{
+    margin-left: 20px;
+    transition: color 0.1s linear;
+}
+
+.map_text2:hover{
+    color: #F4774C;
+}
+
+.img_map{
+    margin: 0px 230px;
+}
+
+.map{
+    margin-bottom: 130px;
+}
+

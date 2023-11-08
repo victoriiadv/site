@@ -1,0 +1,51 @@
+.nav-sale{
+    color: #F4774C;
+}
+
+.sale_list{
+    margin: 55px 130px;
+}
+
+.sale_info{
+    margin-top: 50px;
+}
+
+.sale1{
+    margin: 70px 130px;
+    display: flex;
+    align-items: center;
+}
+
+.sale1_text{
+    margin-left: 100px;
+}
+
+.sale2{
+    margin: 70px 130px;
+    display: flex;
+    align-items: center;
+}
+
+.img_sale2{
+    margin-left: 120px;
+}
+
+.sale3{
+    margin: 70px 130px;
+    display: flex;
+    align-items: center;
+}
+
+.sale3_text{
+    margin-left: 100px;
+}
+
+.gift{
+    margin: 100px 130px;
+}
+
+.gift_img{
+    margin: 30px 0px;
+    display: flex;
+    align-items: center;
+ }

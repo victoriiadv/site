@@ -1,0 +1,36 @@
+.nav-catalog{
+    color: #F4774C;
+}
+
+.page_info{
+    margin: 40px 130px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.page_img23{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.page_img2{
+    margin-left: 115px;
+}
+
+.page_img3{
+    margin-left: 25px;
+}
+
+.page_text{
+    margin-left: 100px;
+}
+
+.buy{
+    color: #F4774C;
+    transition: color 0.1s linear;
+}
+
+.buy:hover{
+    color: #db6b44;
+}

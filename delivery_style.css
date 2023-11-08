@@ -1,0 +1,39 @@
+.nav-delivery{
+    color: #F4774C;
+}
+
+.delivery{
+    margin: 20px 130px;
+}
+ .text_table{
+    margin-left: 10px;
+ }
+
+ .icon_table{
+     display: flex;
+    align-items: flex-start;
+ }
+
+ table{
+    margin-top: 40px;
+    border-collapse: collapse;
+    border: 2px solid #F4774C;
+ }
+
+ td {
+  padding: 15px;
+  border-bottom: 2px solid #F4774C;
+   border-right: 2px solid #F4774C;
+}
+
+.dop_info{
+    margin: 30px 130px;
+}
+
+.link{
+    transition: color 0.1s linear;
+}
+
+.link:hover{
+    color: #F4774C;
+}

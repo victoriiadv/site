@@ -1,0 +1,155 @@
+body {
+    background-color: #F0EADA;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+    margin: 45px 130px;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+.name{
+    margin: 0px 11px;
+    font-size: 1.3rem;
+}
+
+.nav{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-info{
+    margin-right: 98.05px;
+    margin-left: 220px;
+    transition: color 0.1s linear;
+}
+.nav-info:hover{
+    color: #F4774C;
+}
+
+.nav-sale{
+    margin-right: 98.05px;
+    transition: color 0.1s linear;
+}
+.nav-sale:hover{
+    color: #F4774C;
+}
+
+.nav-catalog{
+    margin-right: 98.05px;
+    transition: color 0.1s linear;
+}
+.nav-catalog:hover{
+    color: #F4774C;
+}
+
+.nav-contacts{
+    margin-right: 98.05px;
+    transition: color 0.1s linear;
+}
+.nav-contacts:hover{
+    color: #F4774C;
+}
+
+.nav-delivery{
+    font-height: 61px;
+    transition: color 0.1s linear;
+}
+.nav-delivery:hover{
+    color: #F4774C;
+}
+
+.arrow{
+     height: 47px;
+     width: 47px;
+     right: 50px;
+     bottom: 100px;
+     position: fixed;
+}
+
+.text {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(244, 119, 76, 1) 0%,
+    rgba(244, 119, 76, 1) 70%,
+    rgba(244, 119, 76, 0) 70.3%
+  );
+  height: 100%;
+  width: 100%;
+  color: #000;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+footer{
+    background-color: #000;
+    left: 0px;
+    height: 240px;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    color: #F0EADA;
+    justify-content: space-between;
+}
+
+.name_footer{
+    color: #F4774C;
+}
+
+.nav_f:hover{
+    color: #F4774C;
+}
+
+.nav_footer{
+    color: #F0EADA;
+}
+
+.nav_f{
+    color: #F0EADA;
+    transition: color 0.1s linear;
+}
+
+.cont_footer{
+    color: #F0EADA;
+}
+
+.logo_footer1{
+    margin-left: 100px;
+    align: center;
+    color: #F0EADA;
+    font-size: 1.3rem;
+}
+
+.logo_footer2{
+    margin-right: 100px;
+    align: center;
+    color: #F0EADA;
+    font-size: 1.3rem;
+}
+
+.map_text2_f{
+    color: #F0EADA;
+    transition: color 0.1s linear;
+}
+
+.map_text2_f:hover{
+    color: #F4774C;
+}
+
+.colortext{
+    color: #F4774C;
+}

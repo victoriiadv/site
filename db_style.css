@@ -1,0 +1,13 @@
+.nav-catalog{
+    color: #F4774C;
+}
+
+.db_text{
+    margin: 40px 130px;
+}
+
+ .db{
+    margin: 40px 130px;
+    display: flex;
+    align-items: flex-start;
+ }

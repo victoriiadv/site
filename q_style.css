@@ -1,0 +1,13 @@
+.nav-catalog{
+    color: #F4774C;
+}
+
+.q_text{
+    margin: 40px 130px;
+}
+
+ .q{
+    margin: 40px 130px;
+    display: flex;
+    align-items: flex-start;
+ }
